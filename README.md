@@ -1,7 +1,26 @@
 ![Header]<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 
 ## HI! My name is Alexey. I'm beginner Front-and developer. 
+
+
+![LINKDIN](https://img.shields.io/badge/-LINKDIN-blue?style=for-the-badge&logo=LinkedIn)
+![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-blue?style=for-the-badge&logo=vk)
+![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=)
+
+
+### My projects:
+https://alexeykramarchuk.github.io/color-desk_project-4/
+https://alexeykramarchuk.github.io/Vertical_slider/
+https://alexeykramarchuk.github.io/Aim_Game/
+https://alexeykramarchuk.github.io/Slider/
+
+
 
 ### Technical Skills
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
