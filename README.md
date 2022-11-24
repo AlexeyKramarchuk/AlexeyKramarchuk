@@ -15,10 +15,10 @@
 
 
 ### My projects:
-https://alexeykramarchuk.github.io/color-desk_project-4/
-https://alexeykramarchuk.github.io/Vertical_slider/
-https://alexeykramarchuk.github.io/Aim_Game/
-https://alexeykramarchuk.github.io/Slider/
+https://alexeykramarchuk.github.io/color-desk_project-4/<br>
+https://alexeykramarchuk.github.io/Vertical_slider/<br>
+https://alexeykramarchuk.github.io/Aim_Game/<br>
+https://alexeykramarchuk.github.io/Slider/<br>
 
 
 
