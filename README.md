@@ -1,6 +1,5 @@
 ![Header]<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
-<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
 ## HI! My name is Alexey. I'm beginner Front-and developer. 
 
