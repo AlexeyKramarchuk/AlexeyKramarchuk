@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif)
+![Header]<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
 <img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
