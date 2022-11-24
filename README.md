@@ -11,5 +11,5 @@
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP)
-![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=WEBPACK)
-![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP)
+
+
