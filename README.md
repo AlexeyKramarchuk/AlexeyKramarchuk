@@ -1,10 +1,4 @@
-![Header]<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
+<img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
 ## HI! My name is Alexey. I'm beginner Front-and developer. 
 
