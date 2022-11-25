@@ -2,6 +2,7 @@
 
 ## HI! My name is Alexey. I'm beginner Front-and developer. 
 
+### Follow Me
 
 [![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk)](https://id.vk.com/account/#/main)
