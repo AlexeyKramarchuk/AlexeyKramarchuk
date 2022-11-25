@@ -3,9 +3,9 @@
 ## HI! My name is Alexey. I'm beginner Front-and developer. 
 
 
-![LINKDIN](https://img.shields.io/badge/-LINKDIN-blue?style=for-the-badge&logo=LinkedIn)
-![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-blue?style=for-the-badge&logo=vk)
-![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=)
+[![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk)](https://id.vk.com/account/#/main)
+[![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
 
 
 ### My projects:
