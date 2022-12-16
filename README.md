@@ -4,16 +4,18 @@
 
 ### Follow Me
 
+[![GOOGLE](https://img.shields.io/badge/-GOOGLE-090909?style=for-the-badge&logo=Google)](dp020991kos@gmail.com)
 [![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
-[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk)](https://id.vk.com/account/#/main)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
 
 
 ### My projects:
+https://alexeykramarchuk.github.io/oleksii-kramar.github.io/<br>
 https://alexeykramarchuk.github.io/color-desk_project-4/<br>
 https://alexeykramarchuk.github.io/Vertical_slider/<br>
 https://alexeykramarchuk.github.io/Aim_Game/<br>
 https://alexeykramarchuk.github.io/Slider/<br>
+
 
 
 
