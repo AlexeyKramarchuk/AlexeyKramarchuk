@@ -4,7 +4,6 @@
 
 ### Follow Me
 
-[![GOOGLE](https://img.shields.io/badge/-GOOGLE-090909?style=for-the-badge&logo=Google)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
 [![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
 
