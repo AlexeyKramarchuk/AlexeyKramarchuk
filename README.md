@@ -10,7 +10,6 @@
 
 
 ### My projects:
-https://alexeykramarchuk.github.io/oleksii-kramar.github.io/<br>
 https://alexeykramarchuk.github.io/color-desk_project-4/<br>
 https://alexeykramarchuk.github.io/Vertical_slider/<br>
 https://alexeykramarchuk.github.io/Aim_Game/<br>
