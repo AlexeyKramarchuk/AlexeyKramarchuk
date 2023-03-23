@@ -1,8 +1,8 @@
 <img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
 ## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable. 
- 🧠  I'm currently learning TypeScript
- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/1/folders/1EhKeWnM8ClCsp_4uoEFj6RkJJVL0Gkk-)
+ 🧠  I'm currently learning TypeScript<br>
+ 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/150soZ7a0lDpU8zLtT6EPMeIjohwC-ogS/view?usp=share_link)
 
 ### Follow Me
 
