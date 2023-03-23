@@ -1,10 +1,10 @@
 <img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
-## HI! My name is Alexey. I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable.
+## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable.
 
 ### Follow Me
 
-[![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
+[![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alexey-kramarchuk-6812b4221/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
 [![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB)](https://github.com/AlexeyKramarchuk)
 
