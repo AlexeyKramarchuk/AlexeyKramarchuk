@@ -2,7 +2,7 @@
 
 ## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable. 
  🧠  I'm currently learning TypeScript<br>
-  📫 How to reach me: dp020991kos@gmail.com<br>
+ 📫 How to reach me: dp020991kos@gmail.com<br>
  📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/150soZ7a0lDpU8zLtT6EPMeIjohwC-ogS/view?usp=share_link)
 
 
@@ -34,4 +34,4 @@
 <p dir="auto">Slider: <a href="https://alexeykramarchuk.github.io/Slider/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Slider">Code</a></p>
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexeyKramarchuk}&theme={solarized_dark}
+<!-- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexeyKramarchuk}&theme={algolia} -->
