@@ -1,6 +1,6 @@
 <img src="https://github.com/AlexeyKramarchuk/AlexeyKramarchuk/blob/main/assets/AK.gif" width="100%"/>
 
-## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable.
+## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable. * 🧠  I'm currently learning TypeScript
 
 ### Follow Me
 
