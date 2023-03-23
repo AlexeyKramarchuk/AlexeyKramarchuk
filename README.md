@@ -11,13 +11,6 @@
 [![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB)](https://github.com/AlexeyKramarchuk)
 
 
-### My projects:
-https://alexeykramarchuk.github.io/color-desk_project-4/<br>
-https://alexeykramarchuk.github.io/Vertical_slider/<br>
-https://alexeykramarchuk.github.io/Aim_Game/<br>
-https://alexeykramarchuk.github.io/Slider/<br>
-
-
 
 
 ### Technical Skills
@@ -31,3 +24,9 @@ https://alexeykramarchuk.github.io/Slider/<br>
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP)
 
 
+
+### My projects:
+https://alexeykramarchuk.github.io/color-desk_project-4/<br>
+https://alexeykramarchuk.github.io/Vertical_slider/<br>
+https://alexeykramarchuk.github.io/Aim_Game/<br>
+https://alexeykramarchuk.github.io/Slider/<br>
