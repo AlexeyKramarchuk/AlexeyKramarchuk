@@ -13,7 +13,7 @@
 
 
 
-### Technical Skills
+### Skills
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
