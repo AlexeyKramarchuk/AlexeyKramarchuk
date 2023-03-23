@@ -6,7 +6,7 @@
 
 [![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
-[![GITHUB](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://github.com/AlexeyKramarchuk)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB)](https://github.com/AlexeyKramarchuk)
 
 
 ### My projects:
