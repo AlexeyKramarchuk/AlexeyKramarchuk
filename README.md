@@ -33,3 +33,5 @@
 <p dir="auto">Aim_Game: <a href="https://alexeykramarchuk.github.io/Aim_Game/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Aim_Game">Code</a></p>
 <p dir="auto">Slider: <a href="https://alexeykramarchuk.github.io/Slider/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Slider">Code</a></p>
 
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexeyKramarchuk}&theme={solarized_dark}
