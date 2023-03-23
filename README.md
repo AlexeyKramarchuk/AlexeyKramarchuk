@@ -28,6 +28,7 @@
 
 
 ### My projects:
+<p dir="auto">I recommend checking out my last project: Color_desk: <a href="https://alexeykramarchuk.github.io/color-desk_project-4/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/color-desk_project-4">Code</a></p>
 https://alexeykramarchuk.github.io/color-desk_project-4/<br>
 https://alexeykramarchuk.github.io/Vertical_slider/<br>
 https://alexeykramarchuk.github.io/Aim_Game/<br>
