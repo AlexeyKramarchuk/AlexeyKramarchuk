@@ -2,8 +2,9 @@
 
 ## Hi 👋 My name is Alexey! I'm beginner Front-and developer. Development is a creative process for me. I like creating interfaces, I like using technology to make people's lives easier and more enjoyable. 
  🧠  I'm currently learning TypeScript<br>
- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/150soZ7a0lDpU8zLtT6EPMeIjohwC-ogS/view?usp=share_link)<br>
- 📫 How to reach me: dp020991kos@gmail.com
+  📫 How to reach me: dp020991kos@gmail.com<br>
+ 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/150soZ7a0lDpU8zLtT6EPMeIjohwC-ogS/view?usp=share_link)
+
 
 ### Follow Me
 
