@@ -6,6 +6,7 @@
 
 [![LINKDIN](https://img.shields.io/badge/-LINKDIN-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksey-kramarchuk-6812b4221/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/aleksey.kramarchuk/)
+[![GITHUB](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://github.com/AlexeyKramarchuk)
 
 
 ### My projects:
@@ -25,7 +26,6 @@ https://alexeykramarchuk.github.io/Slider/<br>
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=WORDPRESS)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
-![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP)
 
 
