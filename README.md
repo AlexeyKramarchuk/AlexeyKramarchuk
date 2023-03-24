@@ -28,10 +28,11 @@
 
 
 ### My projects:
+<p dir="auto">Posts app: <a href="https://alexeykramarchuk.github.io/ulbi_react_posts_app/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/ulbi_react_posts_app.git">Code</a></p>
 <p dir="auto">Color-desk: <a href="https://alexeykramarchuk.github.io/color-desk_project-4/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/color-desk_project-4">Code</a></p>
 <p dir="auto">Vertical_slider: <a href="https://alexeykramarchuk.github.io/Vertical_slider/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Vertical_slider">Code</a></p>
 <p dir="auto">Aim_Game: <a href="https://alexeykramarchuk.github.io/Aim_Game/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Aim_Game">Code</a></p>
-<p dir="auto">Slider: <a href="https://alexeykramarchuk.github.io/Slider/" rel="nofollow">Demo</a> | <a href="https://github.com/AlexeyKramarchuk/Slider">Code</a></p>
+
 
 
 <!-- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexeyKramarchuk}&theme={algolia} -->
